@@ -16,3 +16,16 @@ Working with Git was new to me. VSC provides many opportunities for project cont
 ![learngitbranching2](https://user-images.githubusercontent.com/109612439/182105329-d2283a83-aaa7-4577-b35f-5e98ddb602da.jpg)
 
 </details>
+
+#### 1. Linux, Command Line, HTTP Tools
+
+In this task I learned the basic Linux commands and learned information about HTTP protocol. Most of the command I learned when I worked with Git. Learn about the updated HTTP protocol HTTP/1.1. From its new mines there are parallels and permanent connections. They increase client server service speed. HTTP - a protocol that every web developer should know!=)))
+
+<details><summary>Screenshots</summary>
+
+![Screen1](/task_linux_cli/Screen1.jpg)
+![Screen2](/task_linux_cli/Screen2.jpg)
+![Screen3](/task_linux_cli/Screen3.jpg)
+![Screen4](/task_linux_cli/Screen4.jpg)
+
+</details>
