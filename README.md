@@ -29,3 +29,16 @@ In this task I learned the basic Linux commands and learned information about HT
 ![Screen4](/task_linux_cli/Screen4.jpg)
 
 </details>
+
+#### 2. GitHub and Collaboration
+
+GitHub provides many tools to work together on a project. Working with remote repositories was new to me and at the same time exciting.
+
+<details><summary>Screenshots</summary>
+
+![GitWeek3](/task_git_collaboration/GitWeek3.jpg)
+![GitWeek4](/task_git_collaboration/GitWeek4.jpg)
+![learngitbranching1](/task_git_collaboration/learngitbranching1.jpg)
+![learngitbranching2](/task_git_collaboration/learngitbranching2.jpg)
+
+</details>
