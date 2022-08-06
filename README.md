@@ -42,3 +42,18 @@ GitHub provides many tools to work together on a project. Working with remote re
 ![learngitbranching2](/task_git_collaboration/learngitbranching2.jpg)
 
 </details>
+
+### Front-End Basics
+
+#### 3. Intro to HTML & CSS
+
+In this task I reviewed the basic elements of HTML and CSS. I was familiar with the basic rules, but some became new to me. 
+Learned how the ***box-sizing*** works. Learned how ***margin collapse*** happens. This knowledge will be useful when working with CSS-styles.
+
+<details><summary>Screenshots</summary>
+
+![Codecademy](/task_html_css_intro/Codecademy.jpg))
+![Coursera_HTML_W1](/task_html_css_intro/Coursera_HTML_W1.jpg)
+![Coursera_HTML_W2](/task_html_css_intro/Coursera_HTML_W2.jpg)
+
+</details>
