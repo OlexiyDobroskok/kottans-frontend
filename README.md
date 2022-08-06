@@ -52,8 +52,19 @@ Learned how the ***box-sizing*** works. Learned how ***margin collapse*** happen
 
 <details><summary>Screenshots</summary>
 
-![Codecademy](/task_html_css_intro/Codecademy.jpg))
+![Codecademy](/task_html_css_intro/Codecademy.jpg)
 ![Coursera_HTML_W1](/task_html_css_intro/Coursera_HTML_W1.jpg)
 ![Coursera_HTML_W2](/task_html_css_intro/Coursera_HTML_W2.jpg)
+
+</details>
+
+#### 4. Responsive Web Design
+
+Got acquainted with the tools for creating adaptive design sites. In the past, these games were held, so it was not new. ***Grid*** and ***Flex*** offer a lot of opportunities to host content.
+
+<details><summary>Screenshots</summary>
+
+![Flexbox_Froggy](/task_responsive_web_design/Flexbox_Froggy.jpg)
+![GridGarden](/task_responsive_web_design/GridGarden.jpg)
 
 </details>
