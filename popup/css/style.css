@@ -1,0 +1,275 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  background-color: rgb(188, 201, 238);
+  color: #000;
+}
+
+.header {
+  width: 100%;
+  height: 60px;
+  background-color: rgb(168, 185, 231);
+}
+
+.container {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.menu {
+  height: 60px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.menu__list {
+}
+
+.menu__item {
+  display: inline;
+  margin-right: 10px;
+}
+
+.menu__item:last-child {
+  margin: 0;
+}
+
+.chek__label {
+  padding: 10px 0px 3px 30px;
+}
+
+.checkbox {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.popup__checkbox {
+  position: absolute;
+  margin-left: -30px;
+  width: 30px;
+  height: 30px;
+  background-image: url(/image/popup-button.png);
+  background-size: cover;
+}
+
+.menu__link {
+  padding: 5px;
+  text-decoration: none;
+  font-weight: 400;
+  color: #000;
+}
+
+.menu__link__img {
+  font-size: 27px;
+  padding: 3px;
+}
+.menu__img {
+  height: 25px;
+  width: 25px;
+}
+
+:focus {
+  outline: 3px solid rgb(67, 90, 153);
+  border-radius: 5px;
+}
+.checkbox:focus ~ .chek__label {
+  outline: 3px solid rgb(67, 90, 153);
+  border-radius: 5px;
+}
+
+input.popup__checkbox {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.popup__container {
+  display: none;
+}
+
+#popup__icon:checked ~ .popup__container {
+  position: absolute;
+  top: 80px;
+  left: 74%;
+  display: inline-block;
+  width: 270px;
+  height: auto;
+  background-color: whitesmoke;
+}
+
+.popup__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.popup__item {
+  display: block;
+  width: 90px;
+  padding: 10px;
+  text-align: center;
+}
+.popup__link {
+  text-decoration: none;
+  font-size: 14px;
+}
+.popup__img {
+  width: 48px;
+  height: 48px;
+}
+.hidden__item {
+  display: none;
+}
+
+.popup__button p {
+  width: 270px;
+  height: 30px;
+  text-align: center;
+  padding: 5px;
+  font-weight: 600;
+}
+
+p.hide {
+  display: none;
+}
+
+#popup:checked ~ * li.hidden__item {
+  display: inline-block;
+}
+#popup:checked ~ .popup__container {
+  position: absolute;
+  top: 80px;
+  left: 75%;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  background-color: whitesmoke;
+  overflow-y: scroll;
+}
+#popup:checked ~ * p.more {
+  display: none;
+}
+#popup:checked ~ * p.hide {
+  display: block;
+}
+
+.popup__link:hover,
+.popup__button p:hover {
+  background-color: rgb(238, 232, 225);
+}
+.menu__link:focus,
+.menu__link__img:focus,
+.popup__checkbox:focus {
+  outline: 3px solid rgb(67, 90, 153);
+  border-radius: 5px;
+}
+
+.menu__link:hover,
+.menu__link__img:hover,
+.popup__checkbox:hover {
+  background-color: rgb(127, 153, 224);
+}
+
+@media (max-width: 556px) {
+  #popup:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 40%;
+  }
+  #popup__icon:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 40%;
+  }
+}
+
+@media (min-width: 557px) {
+  #popup:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 45%;
+  }
+  #popup__icon:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 45%;
+  }
+}
+
+@media (min-width: 600px) {
+  #popup:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 50%;
+  }
+  #popup__icon:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 50%;
+  }
+}
+
+@media (min-width: 750px) {
+  #popup:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 55%;
+  }
+  #popup__icon:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 55%;
+  }
+}
+
+@media (min-width: 900px) {
+  #popup:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 65%;
+  }
+  #popup__icon:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 65%;
+  }
+}
+@media (min-width: 1100px) {
+  #popup:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 70%;
+  }
+  #popup__icon:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 70%;
+  }
+}
+
+@media (min-width: 1200px) {
+  #popup:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 75%;
+  }
+  #popup__icon:checked ~ .popup__container {
+    position: absolute;
+    top: 80px;
+    left: 75%;
+  }
+}
