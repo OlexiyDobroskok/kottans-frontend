@@ -47,8 +47,8 @@ GitHub provides many tools to work together on a project. Working with remote re
 
 #### 3. Intro to HTML & CSS
 
-In this task I reviewed the basic elements of HTML and CSS. I was familiar with the basic rules, but some became new to me. 
-Learned how the ***box-sizing*** works. Learned how ***margin collapse*** happens. This knowledge will be useful when working with CSS-styles.
+In this task I reviewed the basic elements of HTML and CSS. I was familiar with the basic rules, but some became new to me.
+Learned how the **_box-sizing_** works. Learned how **_margin collapse_** happens. This knowledge will be useful when working with CSS-styles.
 
 <details><summary>Screenshots</summary>
 
@@ -60,7 +60,7 @@ Learned how the ***box-sizing*** works. Learned how ***margin collapse*** happen
 
 #### 4. Responsive Web Design
 
-Got acquainted with the tools for creating adaptive design sites. In the past, these games were held, so it was not new. ***Grid*** and ***Flex*** offer a lot of opportunities to host content.
+Got acquainted with the tools for creating adaptive design sites. In the past, these games were held, so it was not new. **_Grid_** and **_Flex_** offer a lot of opportunities to host content.
 
 <details><summary>Screenshots</summary>
 
@@ -68,3 +68,12 @@ Got acquainted with the tools for creating adaptive design sites. In the past, t
 ![GridGarden](/task_responsive_web_design/GridGarden.jpg)
 
 </details>
+
+#### 5. HTML & CSS Practice
+
+My [DEMO](https://olexiydobroskok.github.io/app__Popup//)
+
+In this assignment, I learned how to apply my knowledge of HTML and CSS to create pop-up menu.
+New to me was the use of checkboxes to hide menu items.
+Learned the rules of alt attributes.
+The reviewer helped to pay attention to some details, which helped make the code valid,thank you.
