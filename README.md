@@ -92,7 +92,8 @@ The topic is very big. Some of the basics I recently reviewed, so the first few 
     - Object.hasOwnProperty();
     - String.split();
     - String.replace();
-    Many of these methods will be very useful in the future.
+
+Many of these methods will be very useful in the future.
 
 <details><summary>Screenshots</summary>
 
