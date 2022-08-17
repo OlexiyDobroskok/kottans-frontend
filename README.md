@@ -77,3 +77,31 @@ In this assignment, I learned how to apply my knowledge of HTML and CSS to creat
 New to me was the use of checkboxes to hide menu items.
 Learned the rules of alt attributes.
 The reviewer helped to pay attention to some details, which helped make the code valid,thank you.
+
+#### 6. JavaScript Basics
+
+The topic is very big. Some of the basics I recently reviewed, so the first few topics didn't cause any difficulty. The last topic, **Algorithm Scripting Challenges**, did not. Going through it, I realized that I'm only a few steps away from the start, but the basic resource for moving forward is already there.
+
+> New for me were such methods as:
+
+    - Array.filter();
+    - Array.map();
+    - Array.reduce();
+    - Array.slice();
+    - Array.splice();
+    - Object.hasOwnProperty();
+    - String.split();
+    - String.replace();
+    Many of these methods will be very useful in the future.
+
+<details><summary>Screenshots</summary>
+
+![coursera_JS_Basic](/task_js_basics/coursera_JS_Basic.png)
+![FreeCodeCamp_JS-Basic](/task_js_basics/FreeCodeCamp_JS-Basic.png)
+![FreeCodeCamp_Basik-Data](/task_js_basics/FreeCodeCamp_Basik-Data.png)
+![FreeCodeCamp_Basik-Scripting](/task_js_basics/FreeCodeCamp_Basik-Scripting.png)
+![FreeCodeCamp_ES6](/task_js_basics/FreeCodeCamp_ES6.png)
+![FreeCodeCamp_Functional-Programming](/task_js_basics/FreeCodeCamp_Functional-Programming.png)
+![FreeCodeCamp_Intermediate_Algorithm](/task_js_basics/FreeCodeCamp_Intermediate_Algorithm.png)
+
+</details>
