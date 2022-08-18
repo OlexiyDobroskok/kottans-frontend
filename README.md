@@ -111,8 +111,11 @@ Many of these methods will be very useful in the future.
 
 I really liked the lectures on coursera. The event listener adds so many possibilities for interesting ideas on the site. Let's do it! =))
 
+**Algorithm Scripting Challenges** still a difficult task, some I completed by myself, but in some, I had to look at the prompts, as experience is still not enough. But I remembered the school curriculum. For the future, take the lens method _Array.prototype.every()_
+
 <details><summary>Screenshots</summary>
 
 ![Coursera_DOM](/task_js_dom/Coursera_DOM.png)
+![FreeCode_EAS_taskDOM](/task_js_dom/FreeCode_EAS_taskDOM.png)
 
 </details>
