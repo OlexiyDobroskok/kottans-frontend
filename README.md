@@ -106,3 +106,13 @@ Many of these methods will be very useful in the future.
 ![FreeCodeCamp_Intermediate_Algorithm](/task_js_basics/FreeCodeCamp_Intermediate_Algorithm.png)
 
 </details>
+
+#### 7. Document Object Model
+
+I really liked the lectures on coursera. The event listener adds so many possibilities for interesting ideas on the site. Let's do it! =))
+
+<details><summary>Screenshots</summary>
+
+![Coursera_DOM](/task_js_dom/Coursera_DOM.png)
+
+</details>
