@@ -4,7 +4,7 @@
 
 ### General
 
-#### 0. Git та GitHub
+#### 0. Git and GitHub
 
 Working with Git was new to me. VSC provides many opportunities for project control. Allows you to follow the project step by step. If necessary - undo changes and many more.
 
@@ -71,7 +71,7 @@ Got acquainted with the tools for creating adaptive design sites. In the past, t
 
 #### 5. HTML & CSS Practice
 
-My [DEMO](https://olexiydobroskok.github.io/app__Popup//)
+My [DEMO](https://olexiydobroskok.github.io/app__Popup/) | [CodeBase](https://github.com/OlexiyDobroskok/app__Popup/)
 
 In this assignment, I learned how to apply my knowledge of HTML and CSS to create pop-up menu.
 New to me was the use of checkboxes to hide menu items.
@@ -108,6 +108,11 @@ Many of these methods will be very useful in the future.
 </details>
 
 #### 7. Document Object Model
+
+My [DEMO](https://olexiydobroskok.github.io/JS__DOM/) | [CodeBase](https://github.com/OlexiyDobroskok/JS__DOM)
+
+In the practical task, I learned how to create elements in the DOM-tree , learned about event delegation.
+The main difficulty was the optimization of the code, I got confused with the destructuring of the array, but the reviewer helped me cope with this.
 
 I really liked the lectures on coursera. The event listener adds so many possibilities for interesting ideas on the site. Let's do it! =))
 
