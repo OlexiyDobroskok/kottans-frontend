@@ -124,3 +124,15 @@ I really liked the lectures on coursera. The event listener adds so many possibi
 ![FreeCode_EAS_taskDOM](/task_js_dom/FreeCode_EAS_taskDOM.png)
 
 </details>
+
+#### 9. Object Oriented JS
+
+My [DEMO](https://olexiydobroskok.github.io/Frogger__Game/) | [CodeBase](https://github.com/OlexiyDobroskok/Frogger__Game) | [CODEWARS](https://www.codewars.com/users/Netfix)
+
+It was interesting to feel like a game developer. That was my first time with the OOP. Learned how to inherit prototypes and create templates.
+
+<details><summary>Screenshots</summary>
+
+![codewars](/task_js_oop/codewars.png)
+
+</details>
