@@ -125,6 +125,12 @@ I really liked the lectures on coursera. The event listener adds so many possibi
 
 </details>
 
+#### 8. Building a Tiny JS World (pre-OOP)
+
+My [DEMO](https://olexiydobroskok.github.io/a-tiny-JS-world/) [CodeBase](https://github.com/OlexiyDobroskok/a-tiny-JS-world/tree/master)
+
+Not very difficult task. The first steps of OOP, practiced with the methods of arrays. Got good recommendations for writing the method of array.
+
 #### 9. Object Oriented JS
 
 My [DEMO](https://olexiydobroskok.github.io/Frogger__Game/) | [CodeBase](https://github.com/OlexiyDobroskok/Frogger__Game) | [CODEWARS](https://www.codewars.com/users/Netfix)
