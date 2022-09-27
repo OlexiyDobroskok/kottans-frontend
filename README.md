@@ -142,3 +142,9 @@ It was interesting to feel like a game developer. That was my first time with th
 ![codewars](/task_js_oop/codewars.png)
 
 </details>
+
+#### 10. OOP exercise
+
+My [DEMO](https://olexiydobroskok.github.io/a-tiny-JS-world/) | [CodeBase](https://github.com/OlexiyDobroskok/a-tiny-JS-world/tree/master)
+
+Good task. Learned to create and inherit classes.Learned about the presence of static methods and properties of the class. Learned the difficulty in creating hybrids, hello cat woman! = )Learned that you can’t create the world using the static methods of the residents themselves, the world must be a collection of residents or a class with a large population. Took a shot at the ternary operators. With them the code looks cleaner.
