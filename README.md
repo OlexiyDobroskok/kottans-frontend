@@ -1,8 +1,10 @@
 # kottans-frontend
 
-## Stage 0.
+<details>
+<summary>
 
-### General
+### Stage 0
+</summary>
 
 #### 0. Git and GitHub
 
@@ -148,3 +150,39 @@ It was interesting to feel like a game developer. That was my first time with th
 My [DEMO](https://olexiydobroskok.github.io/a-tiny-JS-world/) | [CodeBase](https://github.com/OlexiyDobroskok/a-tiny-JS-world/tree/master)
 
 Good task. Learned to create and inherit classes.Learned about the presence of static methods and properties of the class. Learned the difficulty in creating hybrids, hello cat woman! = )Learned that you can’t create the world using the static methods of the residents themselves, the world must be a collection of residents or a class with a large population. Took a shot at the ternary operators. With them the code looks cleaner.
+
+#### 11. Memory pair game
+
+My [DEMO](https://olexiydobroskok.github.io/MemoryPairGame/) | [CodeBase](https://github.com/OlexiyDobroskok/MemoryPairGame)
+
+#### 12. Friends App
+
+My [DEMO](https://olexiydobroskok.github.io/FriendsApp/) | [CodeBase](https://github.com/OlexiyDobroskok/FriendsApp)
+
+</details>
+
+<details>
+<summary>
+
+### Stage 1
+</summary>
+<details>
+<summary>
+
+### Educational materials
+</summary>
+</details>
+
+<details>
+<summary>
+
+### Home Works
+</summary> 
+1. HTML FORM
+
+[TASK](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-form.md) | [DEMO](https://olexiydobroskok.github.io/checkout-page/) | [CodeBase](https://github.com/OlexiyDobroskok/checkout-page)
+
+
+
+</details>
+</details>
