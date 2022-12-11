@@ -165,6 +165,13 @@ My [DEMO](https://olexiydobroskok.github.io/FriendsApp/) | [CodeBase](https://gi
 
 ### Stage 1
 </summary>
+
+### Homework
+
+#### 1. HTML FORM
+
+[TASK](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-form.md) | [DEMO](https://olexiydobroskok.github.io/checkout-page/) | [CodeBase](https://github.com/OlexiyDobroskok/checkout-page)
+
 <details>
 <summary>
 
@@ -189,17 +196,6 @@ My [DEMO](https://olexiydobroskok.github.io/FriendsApp/) | [CodeBase](https://gi
 
 [4. Деякі підходи до компонування](https://github.com/kottans/frontend/blob/2022_UA/notes/layouts.md)
 
-<details>
-<summary>
-
-#### Homework
-</summary> 
-
-#### 1. HTML FORM
-
-[TASK](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-form.md) | [DEMO](https://olexiydobroskok.github.io/checkout-page/) | [CodeBase](https://github.com/OlexiyDobroskok/checkout-page)
-
-</details>
 </details>
 <details>
 <summary>
