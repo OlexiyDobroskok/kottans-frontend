@@ -160,7 +160,6 @@ My [DEMO](https://olexiydobroskok.github.io/MemoryPairGame/) | [CodeBase](https:
 My [DEMO](https://olexiydobroskok.github.io/FriendsApp/) | [CodeBase](https://github.com/OlexiyDobroskok/FriendsApp)
 
 </details>
-
 <details>
 <summary>
 
@@ -171,18 +170,54 @@ My [DEMO](https://olexiydobroskok.github.io/FriendsApp/) | [CodeBase](https://gi
 
 ### Educational materials
 </summary>
-</details>
+<details>
+<summary>
+
+### HTML / CSS
+</summary>
+
+#### Lections
+
+[1. Специфікація та стандарт HTML](https://www.youtube.com/watch?v=DriWt09EmEw&ab_channel=Kottans)
+
+[2. Основи CSS](https://www.youtube.com/watch?v=LDMr5UFtC6g&ab_channel=Kottans)
+
+[3. Розбір завдання по розмітці форми 2022](https://www.youtube.com/watch?v=C-7__3zx00k&ab_channel=Kottans)
+
+#### Сompendium
+
+[1. Конспект специфікації HTML](https://viktor-yakubiv.github.io/slides/html.html)
+
+[2. Основи CSS — конспект](https://github.com/kottans/frontend/blob/2022_UA/notes/css.md)
+
+[3. Базові рекомендації по доступності](https://github.com/kottans/frontend/blob/2022_UA/notes/accessibility.md)
+
+[4. Деякі підходи до компонування](https://github.com/kottans/frontend/blob/2022_UA/notes/layouts.md)
 
 <details>
 <summary>
 
-### Home Works
+#### Homework
 </summary> 
-1. HTML FORM
+
+#### 1. HTML FORM
 
 [TASK](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-form.md) | [DEMO](https://olexiydobroskok.github.io/checkout-page/) | [CodeBase](https://github.com/OlexiyDobroskok/checkout-page)
 
+</details>
+</details>
+<details>
+<summary>
+
+### How browser works. DOM
+</summary> 
+
+[1. Interface. Browser. Web API](https://drive.google.com/file/d/1qXgxepq1N5WyM0aezk-efV5K0TgHQW8P/view?usp=share_link)
+
+[2. Browser rendering](https://drive.google.com/file/d/1CienGmokeFZqWh3awiLQ830F6fIg_dUi/view) 
 
 
+
+</details>
 </details>
 </details>
