@@ -168,11 +168,6 @@ My [DEMO](https://olexiydobroskok.github.io/FriendsApp/) | [CodeBase](https://gi
 <details>
 <summary>
 
-### Educational materials
-</summary>
-<details>
-<summary>
-
 ### HTML / CSS
 </summary>
 
@@ -218,6 +213,5 @@ My [DEMO](https://olexiydobroskok.github.io/FriendsApp/) | [CodeBase](https://gi
 
 
 
-</details>
 </details>
 </details>
